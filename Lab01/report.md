@@ -24,9 +24,9 @@
 	![Oracle VM](https://github.com/PrinceKay145/os-intro/blob/master/Lab01/image/1.jpg)
 2. Настраиваю VM для установки Linux CentOS
 	a. Указываю имя виртуальной машины и тип гостевой ОС
-		![Имя ВМ и тип ОС](https://github.com/PrinceKay145/os-intro/blob/master/Lab01/image/002.jpg)
+![Имя ВМ и тип ОС](https://github.com/PrinceKay145/os-intro/blob/master/Lab01/image/002.jpg)
 	b. Создаю виртуальный диск типа VDI объемом 30 Гб
-		![Выбор типа диска](https://github.com/PrinceKay145/os-intro/blob/master/Lab01/image/003.jpg)
+![Выбор типа диска](https://github.com/PrinceKay145/os-intro/blob/master/Lab01/image/003.jpg)
 	
    
 
