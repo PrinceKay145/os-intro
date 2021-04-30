@@ -22,4 +22,7 @@
 # Выполнение лабораторной работы
 1. Я установил на личный компьютер Oracle Virtual Machine  
    ![Oracle VM](https://github.com/PrinceKay145/os-intro/blob/master/Lab01/image/1.jpg)
+2. Настраиваю VM для установки Linux CentOS
+   -![Имя ВМ и тип ОС](https://github.com/PrinceKay145/os-intro/blob/master/Lab01/image/002.jpg)
+   
 
