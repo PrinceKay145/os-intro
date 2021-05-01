@@ -20,13 +20,22 @@
 Установить и настроить для дальнейшей работы виртуальную машину Linux
 
 # Выполнение лабораторной работы
-1. Я установил на личный компьютер Oracle Virtual Machine  
+1.	Я установил на личный компьютер Oracle Virtual Machine  
 	![Oracle VM](https://github.com/PrinceKay145/os-intro/blob/master/Lab01/image/1.jpg)
-2. Настраиваю VM для установки Linux CentOS
-	a. Указываю имя виртуальной машины и тип гостевой ОС
-![Имя ВМ и тип ОС](https://github.com/PrinceKay145/os-intro/blob/master/Lab01/image/002.jpg)
-	b. Создаю виртуальный диск типа VDI объемом 30 Гб
-![Выбор типа диска](https://github.com/PrinceKay145/os-intro/blob/master/Lab01/image/003.jpg)
+2. 	Настраиваю VM для установки Linux CentOS
+2.1	Указываю имя виртуальной машины и тип гостевой ОС
+	![Имя ВМ и тип ОС](https://github.com/PrinceKay145/os-intro/blob/master/Lab01/image/002.jpg)
+2.2	Создаю виртуальный диск типа VDI объемом 30 Гб
+	![Выбор типа диска](https://github.com/PrinceKay145/os-intro/blob/master/Lab01/image/003.jpg)
+3. Пошаговая установка и настройка CentOS  
+	- В разделе "Выбор приложений" выбираем "Сервер с GUI"  
+	![Выбор приложений](https://github.com/PrinceKay145/os-intro/blob/master/Lab01/image/006.jpg)
+	- Установка пароля администратора  
+	![Установка пароля](https://github.com/PrinceKay145/os-intro/blob/master/Lab01/image/010.jpg)
+	- Отключаю KDUMP  
+	![Отключение KDUMP](https://github.com/PrinceKay145/os-intro/blob/master/Lab01/image/007.jpg)
+	- Принимаем лицензионное соглашение  
+	![Лицензионное соглашение](https://github.com/PrinceKay145/os-intro/blob/master/Lab01/image/012.jpg)
 	
    
 
