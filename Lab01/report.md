@@ -23,39 +23,39 @@
 	![Oracle VM](image/1.jpg)
 2. Настраиваю VM для установки Linux CentOS  
 	- Указываю имя виртуальной машины и тип гостевой ОС  
-	![Имя ВМ и тип ОС](https://github.com/PrinceKay145/os-intro/blob/master/Lab01/image/002.jpg)
+	![Имя ВМ и тип ОС](image/image/002.jpg)
 	- Создаю виртуальный диск типа VDI объемом 30 Гб  
-	![Выбор типа диска](https://github.com/PrinceKay145/os-intro/blob/master/Lab01/image/003.jpg)
+	![Выбор типа диска](image/003.jpg)
 3. Пошаговая установка и настройка CentOS  
 	- В разделе "Выбор приложений" выбираем "Сервер с GUI"  
-	![Выбор приложений](https://github.com/PrinceKay145/os-intro/blob/master/Lab01/image/006.jpg)
+	![Выбор приложений](image/006.jpg)
 	- Установка пароля администратора  
-	![Установка пароля](https://github.com/PrinceKay145/os-intro/blob/master/Lab01/image/010.jpg)
+	![Установка пароля](image/010.jpg)
 	- Отключаю KDUMP  
-	![Отключение KDUMP](https://github.com/PrinceKay145/os-intro/blob/master/Lab01/image/007.jpg)
+	![Отключение KDUMP](image/007.jpg)
 	- Принимаем лицензионное соглашение  
-	![Лицензионное соглашение](https://github.com/PrinceKay145/os-intro/blob/master/Lab01/image/012.jpg)
+	![Лицензионное соглашение](image/012.jpg)
 4. Подключаю образ диска дополнений гостевой ОС  
-![Установка образа](https://github.com/PrinceKay145/os-intro/blob/master/Lab01/image/013.jpg)
+![Установка образа](image/013.jpg)
 
 # Домашнее задание
 1. Анализирую последовательность загрузки системы с помощью команды ```dmesg | less```  
-![dmesg в терминале](https://github.com/PrinceKay145/os-intro/blob/master/Lab01/image/nhw1.jpg)
+![dmesg в терминале](image/nhw1.jpg)
 2. Получаем необходимую информацию с помощью команды ```dmesg | grep -i "..."```  
     1. Версия ядра линукс  
-    ![Linux Version](https://github.com/PrinceKay145/os-intro/blob/master/Lab01/image/nhw2.jpg)
+    ![Linux Version](image/nhw2.jpg)
     2. Частота процессора  
-    ![Частота процессора](https://github.com/PrinceKay145/os-intro/blob/master/Lab01/image/nhw3.jpg)
+    ![Частота процессора](image/nhw3.jpg)
     3. Модель процессора  
-    ![Модель процессора](https://github.com/PrinceKay145/os-intro/blob/master/Lab01/image/nhw4.jpg)
+    ![Модель процессора](image/nhw4.jpg)
     4. Объем доступной оперативной памяти  
-    ![Объем доступной оперативной памяти](https://github.com/PrinceKay145/os-intro/blob/master/Lab01/image/nhw5.jpg)
+    ![Объем доступной оперативной памяти](image/nhw5.jpg)
     5. Тип обнаруженного гипервизора  
-    ![Тип обнаруженного гипервизора](https://github.com/PrinceKay145/os-intro/blob/master/Lab01/image/nhw6.jpg)
+    ![Тип обнаруженного гипервизора](image/nhw6.jpg)
     6. Тип файловой системы корневого раздела  
-    ![Тип файловой системы корневого раздела](https://github.com/PrinceKay145/os-intro/blob/master/Lab01/image/nhw7.jpg)
+    ![Тип файловой системы корневого раздела](image/nhw7.jpg)
     7. Последовательность монтирования файловых систем  
-    ![Последовательность монтирования файловых систем](https://github.com/PrinceKay145/os-intro/blob/master/Lab01/image/nhw8.jpg)
+    ![Последовательность монтирования файловых систем](image/nhw8.jpg)
    
 # Выводы
 Данная лабораторная работа помогла мне научиться устанавливать и использовать виртуальную машину для работы.
