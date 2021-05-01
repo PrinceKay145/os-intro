@@ -61,6 +61,7 @@ header-includes:
 1. Я сделал отчёт на языке Markdown
 
 ![Markdown](image/01.jpg)
+
 2. Я преобразовал файлы из MD в файлы PDF и Word
 
 ![Pandoc](image/001.jpg)
