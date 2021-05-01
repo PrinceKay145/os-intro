@@ -2,8 +2,8 @@
 # Front matter
 lang: ru-RU
 title: "Шаблон отчёта по лабораторной работе"
-subtitle: "Простейший вариант"
-author: "Дмитрий Сергеевич Кулябов"
+subtitle: "Лаб 03"
+author: "Адебайо Ридвануллахи Айофе"
 
 # Formatting
 toc-title: "Содержание"
@@ -41,34 +41,31 @@ header-includes:
   - \predisplaypenalty=10000 # penalty for breaking before a display
   - \postdisplaypenalty=0 # penalty for breaking after a display
   - \floatingpenalty = 20000 # penalty for splitting an insertion (can only be split footnote in standard LaTeX)
-  - \raggedbottom # or \flushbottom
+  - \raggedbottom # or \flushbottomч
   - \usepackage{float} # keep figures where there are in the text
   - \floatplacement{figure}{H} # keep figures where there are in the text
 ---
 
 # Цель работы
 
-Здесь приводится формулировка цели лабораторной работы. Формулировки
-цели для каждой лабораторной работы приведены в методических
-указаниях.
-
-Цель данного шаблона --- максимально упростить подготовку отчётов по
-лабораторным работам.  Модифицируя данный шаблон, студенты смогут без
-труда подготовить отчёт по лабораторным работам, а также познакомиться
-с основными возможностями разметки Markdown.
+Научиться оформлять отчёты и презентации с помощью языка Markdown
 
 # Задание
 
-Здесь приводится описание задания в соответствии с рекомендациями
-методического пособия и выданным вариантом.
+* Сделать отчет в формате markdown используя приемы оформления.
+* конвертировать файлы в формат word и pdf
 
 
 # Выполнение лабораторной работы
 
-Описываются проведённые действия, в качестве иллюстрации даётся ссылка на иллюстрацию (рис. -@fig:001)
+1. Я сделал отчёт на языке Markdown
 
-![Название рисунка](image/placeimg_800_600_tech.jpg){ #fig:001 width=70% }
+![Markdown](image/01.jpg)
+2. Я преобразовал файлы из MD в файлы PDF и Word
+
+![Pandoc](image/001.jpg)
+![Pandoc](image/02.jpg)
 
 # Выводы
 
-Здесь кратко описываются итоги проделанной работы.
+Научился оформлять отчёты с помощью легковесного языка разметки Markdown.
