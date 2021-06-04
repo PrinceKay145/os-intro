@@ -75,7 +75,7 @@ section-titles: true
 
 - Используйте команду splint
 
-![splint](7.1jpg)
+![splint](7.1.jpg)
 
 ## Вывод
 
